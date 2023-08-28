@@ -235,16 +235,16 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❤️𝐔ρ∂αтє𝐒❤️", url="https://t.me/SHER_SHERNU"
+                text="❤️𝐔ρ∂αтє𝐒❤️", url="https://t.me/SHER_SHERN"
             ),
         
             InlineKeyboardButton(
-                text="❤️𝐒υρρσят𝐓❤️", url="https://t.me/SHER_SHERNU"
+                text="❤️𝐒υρρσят𝐓❤️", url="https://t.me/SHER_SHERN"
             ),
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/HARSH_XD_FIGHTERIII"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/HARSH_XD_FIGHTERII"
             ),
         
             InlineKeyboardButton(
@@ -479,16 +479,16 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❤️𝐔ρ∂αтє𝐒❤️", url="https://t.me/SHER_SHERNU"
+                text="❤️𝐔ρ∂αтє𝐒❤️", url="https://t.me/SHER_SHERN"
             ),
         
             InlineKeyboardButton(
-                text="❤️𝐒υρρσят𝐓❤️", url="https://t.me/SHER_SHERNU"
+                text="❤️𝐒υρρσят𝐓❤️", url="https://t.me/SHER_SHERN"
             ),
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/HARSH_XD_FIGHTERIII"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/HARSH_XD_FIGHTERII"
             ),
         
             InlineKeyboardButton(
