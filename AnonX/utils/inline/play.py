@@ -239,7 +239,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             ),
         
             InlineKeyboardButton(
-                text="❤️𝐒υρρσят𝐓❤️", url="https://t.me/SHER_SHERN"
+                text="❤️𝐒υρρσят𝐓❤️", url="https://t.me/+5eipqgd-dFIyNGM9"
             ),
         ],    
         [
@@ -483,7 +483,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
             ),
         
             InlineKeyboardButton(
-                text="❤️𝐒υρρσят𝐓❤️", url="https://t.me/SHER_SHERN"
+                text="❤️𝐒υρρσят𝐓❤️", url="https://t.me/+5eipqgd-dFIyNGM9"
             ),
         ],    
         [
