@@ -173,7 +173,7 @@ async def start_comm(client, message: Message, _):
 ● 📡 **𝐋𝐢𝐧𝐤 ➪ [ᴡᴀᴛᴄʜ ᴏɴ ʏᴏᴜᴛᴜʙᴇ]({link})**☆.♡
 •✰˚♫. * ● ¸ . ★ .¸¸♡¸¸★ :●. *°☆ ¸. ● .. ✷
 
-☆............𝙱𝚈 » [HARSHU](https://t.me/SHER_SHERNU)............☆"""
+☆............𝙱𝚈 » [HARSHU](https://t.me/SHER_SHERN)............☆"""
             key = InlineKeyboardMarkup(
                 [
                     [
@@ -181,7 +181,7 @@ async def start_comm(client, message: Message, _):
                             text="🥀𝐘𝐎𝐔𝐓𝐔𝐁𝐄🥀", url=f"{link}"
                         ),
                         InlineKeyboardButton(
-                            text="🏓𝐒𝐔𝐏𝐏𝐎𝐑𝐓🏓", url="https://t.me/SHER_SHERNU"
+                            text="🏓𝐒𝐔𝐏𝐏𝐎𝐑𝐓🏓", url="https://t.me/SHER_SHERN"
                         ),
                     ],
                 ]
